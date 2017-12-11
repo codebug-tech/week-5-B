@@ -9,6 +9,9 @@ console.log("10 is less than 150")
 // write the javascript code below
 console.log(10 < 150)
 // my guess: true
+
+
+// Go look in the developer tools console and notice that `true` is printed below the sentence `10 is less than 150`. After you finish each comparison, check the developer tools console to make sure it printed what you predicted. 
 /////////////////
 
 
