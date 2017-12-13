@@ -63,7 +63,7 @@ var myFavoriteColor = "blue"
 
 console.log('The variable myFavoriteColor is equal to the string "blue"')
 // write the javascript code below
-console.log(var myFavoriteColor= "blue");
+console.log(var myFavoriteColor== "blue");
 // my guess: true
 
 
@@ -75,7 +75,7 @@ console.log(var myFavoriteColor!= "red");
 
 console.log('The variable myFavoriteColor is equal to the string "purple"')
 // write the javascript code below
-console.log(var myFavoriteColor= "purple");
+console.log(var myFavoriteColor== "purple");
 // my guess:false
 
 
