@@ -35,13 +35,13 @@ console.log(7 > 15);
 
 console.log('The string "apple" is equal "apple"')
 // write the javascript code below
-console.log("apple"="apple");
+console.log("apple"=="apple");
 // my guess: true
 
 
 console.log('The string "apple" is equal "orange"')
 // write the javascript code below
-console.log("apple"="orange");
+console.log("apple"=="orange");
 // my guess: false
 
 
