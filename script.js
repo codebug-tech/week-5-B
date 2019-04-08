@@ -1,3 +1,4 @@
+// The line below just ensures that all the HTML loads before we start running our JavaScript!
 document.addEventListener('DOMContentLoaded', function() {
 // We can compare numbers
 // Convert the string inside each console.log() into code. Write down your guess as to whether the code will print true or false. We did the first one for you. 
